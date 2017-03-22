@@ -164,7 +164,3 @@ df_teams['ELO'].hist()
 # overall goal differential may prove useful
 
 plt.show()
-
-
-
-    
