@@ -1,0 +1,31 @@
+Id,Name,Division,OverallStand
+1,Anaheim Ducks,Pacific,11
+2,Arizona Coyotes,Pacific,29
+3,Calgary Flames,Pacific,10
+4,Edmonton Oilers,Pacific,12
+5,Los Angeles Kings,Pacific,19
+6,San Jose Sharks,Pacific,6
+7,Vancouver Canucks,Pacific,25
+8,Chicago Blackhawks,Central,4
+9,Colorado Avalanche,Central,30
+10,Dallas Stars,Central,26
+11,Minnesota Wild,Central,5
+12,Nashville Predators,Central,14
+13,St. Louis Blues,Central,15
+14,Winnipeg Jets,Central,24
+15,Boston Bruins,Atlantic,13
+16,Buffalo Sabres,Atlantic,23
+17,Detroit Red Wings,Atlantic,27
+18,Florida Panthers,Atlantic,20
+19,Montreal Canadiens,Atlantic,8
+20,Ottawa Senators,Atlantic,9
+21,Tampa Bay Lightning,Atlantic,17
+22,Toronto Maple Leafs,Atlantic,18
+23,Carolina Hurricanes,Metro,22
+24,Columbus Blue Jackets,Metro,3
+25,New Jersey Devils,Metro,28
+26,New York Islanders,Metro,16
+27,New York Rangers,Metro,7
+28,Philadelphia Flyers,Metro,21
+29,Pittsburgh Penguins,Metro,2
+30,Washington Capitals,Metro,1
